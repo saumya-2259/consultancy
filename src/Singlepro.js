@@ -40,6 +40,7 @@ const handleaddproduct=(detail)=>
 {
   setopen(true);
 }
+
   const body=
   {
         name:detail.name,
